@@ -13,8 +13,7 @@ JavaFX-приложение для управления учебными зад�
 
 Установка и запуск
 1. Убедитесь, что у вас установлен Java JDK 17 или выше.
-2. Скачайте или клонируйте репозиторий:
-git clone https://github.com/emirkjjh/StudentTaskManager.git
+2. Скачайте или клонируйте репозиторий: https://github.com/emirkjjh/StudentTaskManager.git
 3. Откройте проект в IntelliJ IDEA или другой IDE с поддержкой JavaFX.
 4. Добавьте библиотеку JavaFX в зависимости проекта.
 5. Запустите App.java как Java Application.
