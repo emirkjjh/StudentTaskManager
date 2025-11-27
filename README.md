@@ -46,5 +46,5 @@ README.md           # Документация проекта
 
 Контактная информация
 • Email: emirkulchaev200@gmail.com
-• GitHub: https://github.com/ваш_ник
+• GitHub: https://github.com/emirkjjh
 • По вопросам использования и багов пишите на email или через Issues на GitHub
